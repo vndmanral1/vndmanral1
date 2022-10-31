@@ -1,0 +1,11 @@
+Interview questions
+1)	What is docker why we are using docker  difference between vm?
+2)	What is docker cloud & how it is different from docker hub what is the features over docker hub ?
+3)	What is docker compose ?
+4)	How you will link when the docker containers is in different virtual machine is there any configuration in docker compose file are any command or any variable?
+5)	What you will do if one master got corrupted, can we create multiple masters?
+6)	What you will do in case any pod deleted?
+7)	What is namespaces in kubernetes can you tell me some?
+8)	Can you tell me some commands using in kubernetes ?
+9)	Tell me the command to create cluster?
+10)	Difference between rc and rs?
