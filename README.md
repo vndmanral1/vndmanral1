@@ -140,8 +140,7 @@ My approach blends strategic architecture with hands-on execution: reusable patt
 
 **🤝 Collaboration:** ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-**🔐 Security & Governance:** ### 🛡️ Security & Governance
-
+**🔐 Security & Governance:** 
 <!-- AWS Specific Services -->
 ![IAM](https://shields.io)
 ![SCPs](https://shields.io)
