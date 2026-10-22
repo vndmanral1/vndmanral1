@@ -140,7 +140,27 @@ My approach blends strategic architecture with hands-on execution: reusable patt
 
 **🤝 Collaboration:** ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-**🔐 Security & Governance:** IAM · SCPs · AWS Organizations · Landing Zone · HashiCorp Vault · KMS · GuardDuty · AWS Config · WAF & Shield · CIS · NIST 800-53 · GDPR · ISO 27001 · PCI
+**🔐 Security & Governance:** ### 🛡️ Security & Governance
+
+<!-- AWS Specific Services -->
+![IAM](https://shields.io)
+![SCPs](https://shields.io)
+![AWS Organizations](https://shields.io)
+![Landing Zone](https://shields.io)
+![KMS](https://shields.io)
+![GuardDuty](https://shields.io)
+![AWS Config](https://shields.io)
+![WAF & Shield](https://shields.io)
+
+<!-- Tools -->
+![HashiCorp Vault](https://shields.io)
+
+<!-- Frameworks & Compliance -->
+![CIS](https://shields.io)
+![NIST 800-53](https://shields.io)
+![GDPR](https://shields.io)
+![ISO 27001](https://shields.io)
+![PCI](https://shields.io)
 
 ---
 
