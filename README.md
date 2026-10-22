@@ -166,8 +166,7 @@ My approach blends strategic architecture with hands-on execution: reusable patt
 - **Platform Engineering (US client)**: Building and evolving internal platform capabilities, golden paths and developer enablement.
 - **Senior Cloud Architect, enterprise automotive program**: Led migration of 90%+ workloads to AWS, designed landing zone patterns, multi-account governance and reusable blueprints for 5+ domains. Delivered $120K+ quarterly savings through Graviton, Spot and savings plans, with zero audit findings across InfoSec reviews.
 - **Senior DevOps Engineer, financial services**: Cut build/test times 35%, achieved 90% IaC coverage, automated SAST/DAST scanning and documented PCI-compliant pipeline practices.
-- **Senior SRE, Think Future Technologies**: Modernized monoliths to Spring Boot microservices, built a Datadog observability stack for 150+ services (MTTD -55%, MTTR -40%), 99.97% uptime.
-- **Principal Consultant, StatusNeo**: SRE lead for a platform serving 7,000+ global brands at 99.98% uptime; automated 1,000+ servers with Ansible and Terraform.
+- **Senior SRE, Think Future Technologies**: Modernized monoliths to Spring Boot microservices, built a Datadog observability stack for 150+ services (MTTD -55%, MTTR -40%), 99.97% uptime. lead the SRE Team for a platform serving 7,000+ global brands at 99.98% uptime; automated 1,000+ servers with Ansible and Terraform.
 - **Senior DevOps Engineer, Delhivery**: Ran Kubernetes across AWS, Azure and GCP, provisioned 100+ clusters with GitOps, saved $12K/month and scaled to 1.5M+ MAU.
 - **Senior Cloud Architect, SSG Infra**: Migrated 100+ workloads to AWS for government clients, saving ~$1.2M/year and winning $3M+ in new cloud engagements.
 - **DevOps Engineer, Gamit Technical Services**: Scaled infrastructure to 100K DAU at 99.99% uptime and saved $220K/year.
